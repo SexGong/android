@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sex Gong</string>
+    <string name="action_settings">Settings</string>
+    <string name="gong_button">GONG</string>
+</resources>
